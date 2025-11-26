@@ -1,4 +1,4 @@
-# LogAndRoll
+# alogdalog
 
 <details>
   <summary>1주차 과제</summary>
